@@ -1,6 +1,6 @@
 # Hi there, I'm ElectroLynx! 👋 ⚡🐾
 
-```json
+
 {
   "name": "ElectroLynx",
   "role": "AI & Software Developer / Tech Enthusiast",
