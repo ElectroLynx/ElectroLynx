@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm ElectroLynx! 👋 ⚡🐾
 
-<!--
-**ElectroLynx/ElectroLynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "name": "ElectroLynx",
+  "role": "AI & Software Developer / Tech Enthusiast",
+  "tech_stack": ["AI", "Automation", "Game Design", "Fullstack Apps"],
+  "current_focus": "Building innovative AI-driven tools & interactive experiences"
+}
+🚀 About Me
+I am a passionate developer dedicated to transforming innovative concepts into functional prototypes and real-world applications. Blending the analytical world of Artificial Intelligence with the creative realm of Game Design, I build smart automations, powerful mobile apps, and immersive digital experiences.
 
-Here are some ideas to get you started:
+🛠️ Working seamlessly across Windows 11 and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Deeply interested in Prompt Engineering, Autonomous Agents, and AI workflows.
+
+🎮 Crafting interactive worlds and smooth gameplay loops.
+
+🛠️ My Tech Stack
+💻 Development & Engines
+⚡ Backend & Automation
+🤖 AI & Integration
+📂 What I'm Building
+🤖 AI & Automation
+Smart AI Bots: Advanced Discord integrations and autonomous agents.
+
+Workflow Automation: Connecting complex APIs with Make & Supabase to skip the boilerplate.
+
+🎮 Game Design & Apps
+Unity Projects: Prototypes exploring innovative gameplay mechanics and AI-driven NPCs.
+
+Mobile Applications: Sleek, responsive, and data-driven cross-platform apps.
