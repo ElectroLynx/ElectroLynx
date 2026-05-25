@@ -2,11 +2,13 @@
 
 
 {
+  '''json
   "name": "ElectroLynx",
   "role": "AI & Software Developer / Tech Enthusiast",
   "tech_stack": ["AI", "Automation", "Game Design", "Fullstack Apps"],
   "current_focus": "Building innovative AI-driven tools & interactive experiences"
 }
+
 ## 🛠️ My Tech Stack
 
 ### 💻 Development & Engines
@@ -41,8 +43,8 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElectroLynx&show_icons=true&theme=tokyonight&count_private=true" alt="ElectroLynx's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElectroLynx&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://api.github.com/api?username=ElectroLynx&show_icons=true&theme=tokyonight&count_private=true" alt="ElectroLynx's GitHub Stats" height="180px" />
+  <img src="https://api.github.com/api/top-langs/?username=ElectroLynx&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
@@ -50,7 +52,7 @@
 ## 🤝 Connect with Me
 
 * 💼 **LinkedIn:** [Ton-Nom](https://linkedin.com/in/ton-username)
-* 🌐 **Portfolio:** [electrolynx.dev](https://ton-site.com)
+* 🌐 **Portfolio:** [my.vicbosse.com](https://my.vicbosse.com)
 * 💬 **Discord:** `ElectroLynx`
 
 ```text
