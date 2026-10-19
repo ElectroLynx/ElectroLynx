@@ -5,6 +5,9 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Jobs to update snake grid
@@ -13,7 +16,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: madushadhanushka
+          github_user_name: ElectroLynx
           svg_out_path: dist/github-contribution-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
