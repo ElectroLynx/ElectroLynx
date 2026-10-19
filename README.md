@@ -6,4 +6,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElectroLynx&theme=tokyonight" alt="mystreak"/>
 
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElectroLynx/ElectroLynx/output/github-contribution-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ElectroLynx/ElectroLynx/output/github-contribution-snake.svg" width="100%" />
+</picture>
